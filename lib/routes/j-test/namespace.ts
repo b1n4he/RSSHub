@@ -1,6 +1,6 @@
 import type { Namespace } from '@/types';
 
 export const namespace: Namespace = {
-    name: '中国教育考试网',
-    url: 'www.neea.edu.cn',
+    name: '实用日本语鉴定考试（J.TEST）',
+    url: 'www.j-test.com',
 };
